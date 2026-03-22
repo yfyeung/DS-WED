@@ -13,6 +13,7 @@ setup(
         "Levenshtein>=0.27.0",
         "huggingface_hub>=0.20.0",
         "scikit-learn>=1.0.0",
+        "silero-vad>=5.0.0",
     ],
     author="Yifan Yang",
     author_email="yifanyeung@sjtu.edu.cn",

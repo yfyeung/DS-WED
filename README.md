@@ -55,10 +55,11 @@ print(f"DS-WED Score: {score}")
 
 ## How It Works
 
-1. Extract audio features using pre-trained self-supervised models (HuBERT or WavLM)
-2. Quantize continuous features into discrete labels via K-means clustering
-3. Map discrete labels to Unicode Chinese character sequences
-4. Compute Levenshtein distance between the two sequences
+1. Trim silence from audio using Silero VAD
+2. Extract audio features using pre-trained self-supervised models (HuBERT or WavLM)
+3. Quantize continuous features into discrete labels via K-means clustering
+4. Map discrete labels to Unicode Chinese character sequences
+5. Compute Levenshtein distance between the two sequences
 
 ## Citation
 
