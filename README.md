@@ -15,9 +15,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yfyeung/DS-WED.git
-cd DS-WED
-pip install -e .
+pip install dswed
 ```
 
 ## Quick Start
