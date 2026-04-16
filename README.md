@@ -66,7 +66,7 @@ Please cite our paper if you find this work useful:
 ```bibtex
 @inproceedings{yang2026dswed,
   title={Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration},
-  author={Yifan Yang, Bing Han, Hui Wang, Long Zhou, Wei Wang, Mingyu Cui, Xu Tan, Xie Chen},
+  author={Yifan Yang and Bing Han and Hui Wang and Long Zhou and Wei Wang and Mingyu Cui and Xu Tan and Xie Chen},
   booktitle={Proc. ICASSP},
   year={2026},
   address={Barcelona},
